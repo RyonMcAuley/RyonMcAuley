@@ -17,8 +17,9 @@ I build things that sit at the intersection of **systems, tooling, and developer
 
 ## ☕ Side Quests
 
-* Dialing in espresso and milk texture
+* Accepting donations for a new custom keyboard
 * Learning just enough about coffee science to be dangerous
+* Dialing in espresso and milk texture
 
 ## 📫 Elsewhere
 
