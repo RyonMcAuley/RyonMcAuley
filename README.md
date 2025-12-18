@@ -2,7 +2,6 @@
 Ryon McAuley
 ────────────
 systems • tooling • linux • dev workflows
-```
 
 About
 
@@ -26,3 +25,4 @@ I prefer boring tools that work
 I change my config more often than my editor
 
 Coffee is part of the feedback loo
+```
