@@ -1,28 +1,30 @@
-```text
-Ryon McAuley
-────────────
-systems • tooling • linux • dev workflows
+# Hi, I'm Ryon 👋
 
-About
+I build things that sit at the intersection of **systems, tooling, and developer experience**. I like clean configs, readable code, and setups that feel intentional rather than accidental.
 
-I like clean configurations, readable code, and setups that behave
-the same way twice.
+## 🧰 What I Work With
 
-Current focus
+* Neovim (lazy.nvim, modular Lua configs)
+* Linux / WSL / Arch-based distros
+* C#, Java, and scripting where it makes sense
+* Observability and telemetry (logs, metrics, traces)
 
-Neovim (lazy.nvim, modular Lua)
+## 🧠 Current Interests
 
-Linux / WSL / Arch-based systems
+* Window managers and minimal Linux setups (Hyprland, Wayland)
+* Improving local dev workflows
+* Making complex systems easier to reason about
 
-C#, Java, and small scripts that glue things together
+## ☕ Side Quests
 
-Observability and operational clarity
+* Dialing in espresso and milk texture
+* Learning just enough about coffee science to be dangerous
 
-Notes
+## 📫 Elsewhere
 
-I prefer boring tools that work
+* GitHub is where the experiments live
+* Commits tend to come in bursts, usually after too much coffee
 
-I change my config more often than my editor
+---
 
-Coffee is part of the feedback loo
-```
+*I value clarity, curiosity, and tools that get out of the way.*
