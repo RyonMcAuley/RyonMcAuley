@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Ryon 👋
 
-<!--
-**RyonMcAuley/RyonMcAuley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things that sit at the intersection of **systems, tooling, and developer experience**. I like clean configs, readable code, and setups that feel intentional rather than accidental.
 
-Here are some ideas to get you started:
+## 🧰 What I Work With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Neovim (lazy.nvim, modular Lua configs)
+* Linux / WSL / Arch-based distros
+* C#, Java, and scripting where it makes sense
+* Observability and telemetry (logs, metrics, traces)
+
+## 🧠 Current Interests
+
+* Window managers and minimal Linux setups (Hyprland, Wayland)
+* Improving local dev workflows
+* Making complex systems easier to reason about
+
+## ☕ Side Quests
+
+* Dialing in espresso and milk texture
+* Learning just enough about coffee science to be dangerous
+
+## 📫 Elsewhere
+
+* GitHub is where the experiments live
+* Commits tend to come in bursts, usually after too much coffee
+
+---
+
+*I value clarity, curiosity, and tools that get out of the way.*
