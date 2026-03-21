@@ -18,13 +18,11 @@ I build things that sit at the intersection of **systems, tooling, and developer
 ## ☕ Side Quests
 
 * Accepting donations for a new custom keyboard
-* Learning just enough about coffee science to be dangerous
-* Dialing in espresso and milk texture
+* Dialing in the perfect at-home espresso
 
 ## 📫 Elsewhere
 
-* GitHub is where the experiments live
-* Commits tend to come in bursts, usually after too much coffee
+* Commits tend to come in bursts between hyperfixations on hobbies
 
 ---
 
