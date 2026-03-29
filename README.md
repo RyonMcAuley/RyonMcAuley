@@ -6,13 +6,14 @@ I build things that sit at the intersection of **systems, tooling, and developer
 
 * Neovim (lazy.nvim, modular Lua configs)
 * Linux / WSL / Arch-based distros
-* C#, Java, and scripting where it makes sense
+* C#, Java, Go, and scripting where it makes sense
 * Observability and telemetry (logs, metrics, traces)
 
 ## 🧠 Current Interests
 
 * Window managers and minimal Linux setups (Hyprland, Wayland)
 * Improving local dev workflows
+* Recreating systems to develop a deeper understanding
 * Making complex systems easier to reason about
 
 ## ☕ Side Quests
